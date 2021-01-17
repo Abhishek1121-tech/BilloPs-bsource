@@ -1,0 +1,6 @@
+[submodule "BilloPs-Core"]
+	path = BilloPs-Core
+	url = git@github.com:Abhishek1121-tech/BilloPs-Core.git
+[submodule "BilloPs-Procure"]
+	path = BilloPs-Procure
+	url = git@github.com:Abhishek1121-tech/BilloPs-Procure.git
